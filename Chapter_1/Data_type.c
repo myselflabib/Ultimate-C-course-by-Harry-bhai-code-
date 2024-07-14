@@ -3,7 +3,8 @@ int main(int argc, char const *argv[])
 {
     int a;
     a = 2;
-
+    
+    int B =4;
     float B = 1.34;
 
     char  C = 'A';
